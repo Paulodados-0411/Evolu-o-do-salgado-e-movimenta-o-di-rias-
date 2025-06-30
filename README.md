@@ -1,4 +1,4 @@
-# Evolu-o-do-salgado-e-movimenta-o-di-rias-
+# Evolu-o-do-saldo-e-movimenta-o-di-rias-
 📊 Projeto Power BI – Evolução do Saldo e Movimentações Diárias
 
 Este projeto tem como objetivo analisar e visualizar a evolução do saldo e as movimentações financeiras diárias, utilizando recursos visuais intuitivos e interativos no Power BI.
